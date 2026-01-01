@@ -3,17 +3,17 @@ My name is Given Glorious. I am a student and tech enthusiast who actively learn
 
 This GitHub is mainly used to document my learning process, experiments, and small projects as I continue to improve my technical skills.
 
-## What I'm working on
+## 🔭 What I'm working on
 - Python 
 - Machine learning fundamentals  
 - Data processing and analysis  
 - Simple AI-related projects
   
-## I’m currently learnin
+## 🌱 I’m currently learnin
 - Deep Learning
 - Math
 
-## Tools & Technologies
+## 🛠 Tools & Technologies
 - Python  
 - NumPy, Pandas  
 - Scikit-learn
