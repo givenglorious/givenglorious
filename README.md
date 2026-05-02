@@ -5,12 +5,12 @@ This GitHub is mainly used to document my learning process, experiments, and sma
 
 ## 🔭 What I'm working on
 - Python 
-- Machine learning fundamentals  
-- Data processing and analysis  
+- RAG
+- Data processing and analysis 
 - Simple AI-related projects
   
 ## 🌱 I’m currently learnin
-- Deep Learning
+- Retrieval Augmented Generation
 - Math
 
 ## 🛠 Tools & Technologies
