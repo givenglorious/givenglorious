@@ -3,19 +3,19 @@ My name is Given Glorious. I am a tech enthusiast who actively learns and builds
 
 This GitHub is mainly used to document my learning process, experiments, and small projects as I continue to improve my technical skills.
 
-## 🔭 What I'm working on
+## What I'm working on
 - Python 
 - RAG
 - Data processing and analysis 
 - Simple AI-related projects
   
-## 🌱 I’m currently learnin
+## I’m currently learnin
 - Retrieval Augmented Generation
 - Math
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Python  
-- NumPy, Pandas  
+- NumPy, Pandas, Seaborn
 - Scikit-learn
 - Jupyter Notebook
 <!--
