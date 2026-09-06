@@ -1,4 +1,4 @@
-## Hi there..
+## Hi there.
 My name is Given Glorious. I am a tech enthusiast who actively learns and builds real-world projects in artificial intelligence.
 
 This GitHub is mainly used to document my learning process, experiments, and small projects as I continue to improve my technical skills.
