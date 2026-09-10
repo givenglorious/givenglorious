@@ -29,33 +29,65 @@
 ### Languages and Tools
 
 <p align="left">
+
 <a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
 </a>
 
 <a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
 </a>
 
 <a href="https://scikit-learn.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn"/>
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
 </a>
 
 <a href="https://numpy.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+</a>
+
+<a href="https://faiss.ai/" target="_blank">
+<img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/.github/FAISS_logo.svg" width="40" height="40" alt="FAISS"/>
+</a>
+
+<a href="https://www.langchain.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_stack.svg" width="40" height="40" alt="LangChain"/>
+</a>
+
+<a href="https://huggingface.co/" target="_blank">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </a>
 
 <a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </a>
+
+</p>
+
+### AI Tools
+
+<p align="left">
+
+<a href="https://openai.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/openai/000000" width="40" height="40" alt="OpenAI"/>
+</a>
+
+<a href="https://www.anthropic.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/anthropic/000000" width="40" height="40" alt="Claude"/>
+</a>
+
+<a href="https://groq.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/groq/000000" width="40" height="40" alt="Groq"/>
+</a>
+
 </p>
 
 ---
@@ -66,18 +98,22 @@
 
 ---
 
----
-
 ### Connect
 
 <p align="left">
+
 <a href="https://github.com/givenglorious">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
+<a href="https://www.instagram.com/givenglorious_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
 </p>
 
 ---
