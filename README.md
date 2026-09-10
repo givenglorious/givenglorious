@@ -64,7 +64,7 @@
 
 ### Currently Learning
 
-`RAG` `LLM` `AI Agents` `MCP` `Deployment`
+`RAG` `LLM` `AI Agents` `MCP` `Deployment` `C`
 
 ---
 
