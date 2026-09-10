@@ -50,18 +50,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
 </a>
 
-<a href="https://faiss.ai/" target="_blank">
-<img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/.github/FAISS_logo.svg" width="40" height="40" alt="FAISS"/>
-</a>
-
-<a href="https://www.langchain.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_stack.svg" width="40" height="40" alt="LangChain"/>
-</a>
-
-<a href="https://huggingface.co/" target="_blank">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face"/>
-</a>
-
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </a>
@@ -72,20 +60,22 @@
 
 </p>
 
+---
+
 ### AI Tools
 
 <p align="left">
 
 <a href="https://openai.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/openai/000000" width="40" height="40" alt="OpenAI"/>
+<img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="OpenAI"/>
 </a>
 
 <a href="https://www.anthropic.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/anthropic/000000" width="40" height="40" alt="Claude"/>
+<img src="https://cdn.simpleicons.org/anthropic" width="40" height="40" alt="Claude"/>
 </a>
 
 <a href="https://groq.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/groq/000000" width="40" height="40" alt="Groq"/>
+<img src="https://cdn.simpleicons.org/groq" width="40" height="40" alt="Groq"/>
 </a>
 
 </p>
