@@ -62,26 +62,6 @@
 
 ---
 
-### AI Tools
-
-<p align="left">
-
-<a href="https://openai.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="OpenAI"/>
-</a>
-
-<a href="https://www.anthropic.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/anthropic" width="40" height="40" alt="Claude"/>
-</a>
-
-<a href="https://groq.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/groq" width="40" height="40" alt="Groq"/>
-</a>
-
-</p>
-
----
-
 ### Currently Learning
 
 `RAG` `LLM` `AI Agents` `MCP` `Deployment`
