@@ -5,6 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=givenglorious&label=Profile%20views&color=0e75b6&style=flat" alt="givenglorious" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.12"/>
+  <img src="https://img.shields.io/badge/AI%20Engineering-111827?style=for-the-badge" alt="AI Engineering"/>
+  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LLM-111827?style=for-the-badge" alt="LLM"/>
+</p>
+
 ---
 
 ### About Me
@@ -62,9 +69,35 @@
 
 ---
 
+### AI Tools
+
+<p align="left">
+
+<a href="https://openai.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="OpenAI"/>
+</a>
+
+<a href="https://www.anthropic.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/anthropic" width="40" height="40" alt="Claude"/>
+</a>
+
+<a href="https://groq.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/groq" width="40" height="40" alt="Groq"/>
+</a>
+
+</p>
+
+---
+
 ### Currently Learning
 
-`RAG` `LLM` `AI Agents` `MCP` `Deployment` `C`
+<p>
+  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LLM-111827?style=flat-square" alt="LLM"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=flat-square" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/MCP-111827?style=flat-square" alt="MCP"/>
+  <img src="https://img.shields.io/badge/Deployment-111827?style=flat-square" alt="Deployment"/>
+</p>
 
 ---
 
