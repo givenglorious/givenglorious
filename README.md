@@ -1,83 +1,83 @@
 <h1 align="center">Hi 👋, I'm Given Glorious</h1>
-<h3 align="center">Aspiring AI Engineer | Python Developer | AI Systems Builder</h3>
+<h3 align="center">AI Engineering Student | Python Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=givenglorious&label=Profile%20views&color=0e75b6&style=flat" alt="givenglorious" />
 </p>
 
-* 🔭 I'm currently building **RAG, LLM & AI-powered applications**
+---
 
-* 🌱 I'm currently learning **AI Engineering, RAG, AI Agents & LLM Applications**
+### About Me
 
-* 👯 I'm looking to collaborate on **AI & Open Source Projects**
+* 🔭 Currently working on **RAG and LLM projects**
+* 🌱 Currently learning **AI Agents, MCP, and deployment**
+* 💬 Ask me about **Python, NLP, Computer Vision, and Machine Learning**
+* 👯 Open to collaborating on **AI and open-source projects**
+* ⚡ I like building things and figuring out how they work
 
-* 💬 Ask me about **Python, Machine Learning, NLP, Computer Vision & RAG**
+---
 
-* ⚡ I enjoy turning **AI ideas into practical software**
+### What I've Built
 
-* 🎯 My goal is to become a **production-focused AI Engineer**
+* 🧾 **OCR LLM Extractor** — Extracting data from receipts and turning it into structured Excel files
+* 🧹 **Doc2Cleaner** — A small Python library for cleaning messy text data
+* 🔎 **RAG System** — Working with document retrieval, embeddings, vector search, and LLMs
+* 🩺 **Skin Cancer Classification** — Image classification using TensorFlow and transfer learning
 
-<br>
+---
 
-<h3 align="left">🚀 Featured Projects</h3>
-
-* 🧾 **OCR LLM Extractor** — Extract structured data from receipts using OCR + LLM
-* 🧹 **Doc2Cleaner** — Clean and preprocess messy text data for NLP pipelines
-* 🔎 **RAG System** — Document retrieval, embeddings, vector search & LLM generation
-* 🩺 **Skin Cancer Classification** — Image classification using Deep Learning
-
-<br>
-
-<h3 align="left">🧠 Currently Learning</h3>
+### Languages and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deployment-111827?style=for-the-badge" />
-</p>
-
-<h3 align="left">🛠️ Languages and Tools</h3>
-
-<p align="left">
-
 <a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
 <a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
 </a>
 
 <a href="https://scikit-learn.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
 </a>
 
 <a href="https://numpy.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </a>
 
+<a href="https://github.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+</a>
 </p>
 
-<h3 align="left">🔗 Connect with me</h3>
+---
+
+### Currently Learning
+
+`RAG` `LLM` `AI Agents` `MCP` `Deployment`
+
+---
+
+### GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=givenglorious&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=givenglorious&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+### Connect
 
 <p align="left">
-
 <a href="https://github.com/givenglorious">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -85,10 +85,10 @@
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 </p>
 
-<br>
+---
 
-<h3 align="center">⚙️ Building → Learning → Breaking → Improving</h3>
-<h4 align="center">"Don't just use AI. Understand how to build it."</h4>
+<p align="center">
+  <i>Still learning, still building.</i>
+</p>
