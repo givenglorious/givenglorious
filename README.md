@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Given Glorious</h1>
-<h3 align="center">AI Engineering Student | Python Developer</h3>
+<h1 align="center">Hi.👋, I'm Given Glorious</h1>
+<h3 align="center> Student. </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=givenglorious&label=Profile%20views&color=0e75b6&style=flat" alt="givenglorious" />
